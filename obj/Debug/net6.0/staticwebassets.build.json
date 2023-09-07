@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LHMP45N8cr9p38Oeg/e8K4pLpj+RysqLNYm1mA3gmOM=",
+  "Source": "crm-api-core",
+  "BasePath": "_content/crm-api-core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
